@@ -15,3 +15,6 @@ Curvetopia is a project dedicated to identifying, regularizing, and beautifying 
 - Regularization: Use the provided scripts to identify and regularize shapes.
 - Symmetry Detection: Run symmetry detection algorithms on closed shapes.
 - Curve Completion: Apply completion algorithms to fill gaps in 2D curves.
+
+## Demonstration Link:
+[Link](https://drive.google.com/file/d/1acVWLzHxrYgfbDOz8Dm8eMoaKn96qDnw/view?usp=sharing)
